@@ -1,2 +1,2 @@
 # mal
-My Anime List clone
+My Anime List responsive and list feature added
